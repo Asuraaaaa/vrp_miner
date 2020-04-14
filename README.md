@@ -1,1 +1,5 @@
-# vrp_miner
+# -vRP-DrugDealer
+
+# Support Discord : https://discord.gg/ewrPBBx 
+
+# Depedencies: vRP
